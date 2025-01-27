@@ -8,7 +8,7 @@
 | ✅  | 9장  | 취소             | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter2/9장)  |
 | ✅  | 10장 | 예외 처리          | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter2/10장) |
 | ✅  | 11장 | 코루틴 스코프 함수     | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter2/11장) |
-|    | 12장 | 디스패처           |                                                                               |
+| ✅  | 12장 | 디스패처           | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter2/12장) |
 |    | 13장 | 코루틴 스코프 만들기    |                                                                               |
 |    | 14장 | 공유 상태로 인한 문제   |                                                                               |
 |    | 15장 | 코틀린 코루틴 테스트하기  |                                                                               |

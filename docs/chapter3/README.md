@@ -9,6 +9,5 @@
 | ✅  | 20장 | 폴루우의 실제 구현          | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter3/20장) |
 | ✅  | 21장 | 플로우 만들기             | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter3/21장) |
 | ✅  | 22장 | 플로우 생명주기 함수         | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter3/22장) |
-|    | 23장 | 플로우 처리              |                                                                               |
-|    | 24장 | 공유플로우와 상태플로우        |                                                                               |
-|    | 25장 | 플로우 테스트하기           |                                                                               |
+| ✅  | 23장 | 플로우 처리              | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter3/23장) |
+| ✅  | 24장 | 공유플로우와 상태플로우        | [📜](https://github.com/ppeper/Kotlin-Coroutines/tree/main/docs/chapter3/24장) |
